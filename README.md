@@ -1,4 +1,6 @@
-
+---
+usemathjax: true
+---
 
 ### A few notes on prime numbers:
 
