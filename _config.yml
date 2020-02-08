@@ -18,3 +18,5 @@ include:
 remote_theme: thekoc11/hacker
 
 #theme: jekyll-theme-midnight
+
+theme: jekyll-theme-cayman
