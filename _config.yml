@@ -15,3 +15,5 @@ include:
   - index.md
 
 #remote_theme: thekoc11/minimal
+
+theme: jekyll-theme-minimal
