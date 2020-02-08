@@ -15,6 +15,6 @@ include:
   - index.md
   - math.md
 
-#remote_theme: thekoc11/minimal
+remote_theme: thekoc11/minimal
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
