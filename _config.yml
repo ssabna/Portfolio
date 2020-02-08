@@ -15,6 +15,6 @@ include:
   - index.md
   - math.md
 
-#remote_theme: thekoc11/minimal
+remote_theme: pages-themes/midnight
 
 #theme: jekyll-theme-midnight
