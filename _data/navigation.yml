@@ -1,6 +1,6 @@
 - name: Home
-  link: /
+  link: /LectureNotes
 - name: About
-  link: /about.html
+  link: /LectureNotes/about.html
 - name: Blog
-  link: /blog.html
+  link: /LectureNotes/blog.html
