@@ -15,7 +15,7 @@ include:
   - index.md
   - math.md
 
-remote_theme: thekoc11/hacker
+remote_theme: thekoc11/cayman
 
 #theme: jekyll-theme-midnight
 
