@@ -1,3 +1,8 @@
+---
+layout: post
+author: Abhishek
+---
+
 # About Us
 
 test given \\(P(A \cap B) = P(A) \cdot P(B) \\)
