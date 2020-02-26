@@ -15,10 +15,6 @@ include:
   - index.md
   - math.md
 
-#remote_theme: thekoc11/cayman
-
-#theme: jekyll-theme-midnight
-
-#theme: jekyll-theme-cayman
-
 theme: jekyll-theme-tactile
+title: This is H(x) bits!
+description: Lectures of various topics in Information Theory, Chaos and Causal Learning
