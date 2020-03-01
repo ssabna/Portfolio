@@ -1,8 +1,9 @@
 ---
-layout: post
-author: sabna
+title:  "Welcome to Jekyll!"
+date:   2020-02-29 23:30:23
+categories: [editing]
+tags: [procedure]
 ---
-
 # Introduction:  
 
 ## Steps to follow for a successful blog upload:
