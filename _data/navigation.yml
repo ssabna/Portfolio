@@ -1,6 +1,6 @@
 - name: Home
-  link: /LectureNotes
+  link: /Portfolio
 - name: About
-  link: /LectureNotes/about.html
+  link: /Portfolio/about.html
 - name: Blog
-  link: /LectureNotes/blog.html
+  link: /Portfolio/blog.html
