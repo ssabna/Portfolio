@@ -15,7 +15,7 @@ include:
   - index.md
   - math.md
 
-remote_theme: thekoc11/cayman
+remote_theme: tzuehlke/jekyll-uno-timeline
 
 #theme: jekyll-theme-midnight
 
