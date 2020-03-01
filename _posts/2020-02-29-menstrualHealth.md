@@ -15,10 +15,10 @@ author: sabna
 6. **Viola!!** You're done!. Visit [The Website](https://ssabna.github.io/Portfolio) in **incognito** mode to verify your **public** post has been successfully uploaded
 
 7. Add images as explained below:   
-  1. Add the image to the "images" folder.
-  2. Wherever you want to add the image, write the following command:  
-  ```
-  ![image](/Portfolio/images/<image_name>.jpg)
-  ```
-  3. In the above command, any kind of image can be used(.jpg, .png, .bmp, .svg etc). It is not restricted to the use of .jpg images.
-  4. Example: ![image](/Portfolio/images/guitar.jpg)
+    1. Add the image to the "images" folder.
+    2. Wherever you want to add the image, write the following command:  
+    ```
+    ![image](/Portfolio/images/<image_name>.jpg)
+    ```
+    3. In the above command, any kind of image can be used(.jpg, .png, .bmp, .svg etc). It is not restricted to the use of .jpg images.
+    4. Example: ![image](/Portfolio/images/guitar.jpg)
