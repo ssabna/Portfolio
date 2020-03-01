@@ -14,4 +14,4 @@ author: sabna
 5. After committing, around the center right there will be a button called "Push Origin." Press that.
 6. **Viola!!** You're done!. Visit [The Website](https://ssabna.github.io/Portfolio) in **incognito** mode to verify your **public** post has been successfully uploaded
 
-![image](/images/guitar.jpg)
+![image](Portfolio/images/guitar.jpg)
