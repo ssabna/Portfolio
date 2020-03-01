@@ -14,7 +14,7 @@ author: sabna
 5. After committing, around the center right there will be a button called "Push Origin." Press that.
 6. **Viola!!** You're done!. Visit [The Website](https://ssabna.github.io/Portfolio) in **incognito** mode to verify your **public** post has been successfully uploaded
 
-7. Add images as explained below:
+7. Add images as explained below:   
   1. Add the image to the "images" folder.
   2. Wherever you want to add the image, write the following command:  
   ```
