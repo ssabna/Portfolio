@@ -1,3 +1,9 @@
+title: Sabna E. Sundaran
+description: 'Portfolio'
+url: 'https://ssabna.github.io'
+baseurl: '/Portfolio'
+
+
 plugins:
   - jekyll-relative-links
 relative_links:
