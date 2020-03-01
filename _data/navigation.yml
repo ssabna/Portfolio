@@ -1,6 +1,6 @@
 - name: Home
-  link: /Portfolio
+  link: /
 - name: About
-  link: /Portfolio/about.html
+  link: /about.html
 - name: Blog
-  link: /Portfolio/blog.html
+  link: /blog.html
